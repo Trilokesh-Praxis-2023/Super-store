@@ -1,1 +1,2 @@
-A Power Bi dashboard visualization to understand the business and focusing the time series analysis to provide valuable insights and accurate sales forecasting of a store.
+Develop a Power BI dashboard visualization aimed at providing a comprehensive understanding of business operations, with a specific focus on time series analysis for precise sales forecasting at a store. Through this visualization, our objective is to empower decision-makers with valuable insights into historical performance, trends, and key indicators. The problem-solving aspect involves leveraging advanced time series analysis techniques to enhance forecasting accuracy, facilitating strategic planning and resource allocation for optimal business outcomes.
+
